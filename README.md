@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Andreas Maurer</h1>
 
-<!--
-**andreas-maurer-2006/andreas-maurer-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+	This is my GitHub profile. I am a CS student from Austria and I am
+	interested in web development.
+</p>
 
-Here are some ideas to get you started:
+<b>Learning:</b>
+<ul>
+	<li> HTML
+	<li> CSS
+	<li> JavaScript
+	<li> Rust
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Working on:</b>
+<ul>
+	<li> advent of code
+</ul>
